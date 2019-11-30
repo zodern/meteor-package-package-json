@@ -1,4 +1,4 @@
-1. Run `cd packages/test && meteor npm install`
+1. Run `meteor npm install && cd packages/test && meteor npm install`
 2. Run `meteor`
 
 It should show something similar to:
